@@ -33,7 +33,7 @@ Ed ecco il codice commentato, per una migliore comprensione:
 <BR>
   
 INPUT L$(1),L$(2),L$(3),L$(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       'Richiede all'utente di inserire 4 stringhe, e le assegna alle variabili L$ (1-4) <BR>
-PRINT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                           'Stampa una riga vuota per formattazione <BR>
+PRINT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          'Stampa una riga vuota per formattazione <BR>
 FOR I1=1 TO 4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    'Inizia un loop che itera su I1 da 1 a 4 <BR>
 FOR I2=1 TO 4    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   'Inizia un loop annidato che itera su I2 da 1 a 4 <BR>
 IF I2=I1 THEN 130    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               'Se I2 è uguale a I1, salta alla linea 130 <BR>
