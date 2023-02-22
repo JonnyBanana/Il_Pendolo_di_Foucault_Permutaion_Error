@@ -18,7 +18,11 @@ nel Cap. 5 del libro "Il Pendolo di Foucault" del Maestro Letterario Italiano Um
 Nel secondo capitolo del libro "HOKMAH", nel sottocapitolo 5,   Belbo mostra a Diollatevi il suo personale word processor, chiamato Abulafia.
 Questo programma chiede degli input all'utente, che deve inserire un carattere ad ogni richiesta del programma, e poi l'algoritmoi calcola tutte le possibili permutazioni delle lettere che gli sono state fornite negli input.
 
-Il programma originale del libro, scritto in BASIC, sarebbe questo:
+Il programma originale del libro, scritto in BASIC, sarebbe questo: https://github.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/blob/main/CODEX/Abulafia_Originale_Umberto_Eco.txt
+  
+<BR>
+    
+    
 
 
   
