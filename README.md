@@ -23,8 +23,14 @@ Il programma originale del libro, scritto in BASIC, sarebbe questo:
 
   
  <BR>
+   
+ <h2>Precisazioni</h2>
+  
+<BR>
   
   
 Inanzitutto voglio precisare che le mie conoscienze nei campi spirutuali/religiosi sono alquanto basiche, e potrebbe perciò essermi sfuggito qualcosa a livello
 di comprendimento delle stesse, e che l'errore da me analizzato è puramente matematico/di programmazione, pertanto chiedo venia se cosi fosse.
 Voglio inoltre precisare che al momento della stesura di questa repo, non ho neanche terminato il libro, ma ciò che mi interessava era analizzare l'algoritmo, e le corrette permutazioni considerando tutte le varibaili, e lecostanti, del calcolo matematico.
+  
+<BR>
