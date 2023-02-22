@@ -22,7 +22,11 @@ Il programma originale del libro, scritto in BASIC, sarebbe questo: https://gith
   
 <BR>
     
-    
+ <p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/main/IMG/programma_basic.png" width="350">
+</p>
+
+<BR>   
 
 
   
