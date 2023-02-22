@@ -28,9 +28,26 @@ Il programma originale del libro, scritto in BASIC, sarebbe questo:
 
 <BR>   
 
-Il txt è con le linee di codice è visionabile qui: https://github.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/blob/main/CODEX/Abulafia_Originale_Umberto_Eco.txt
+Ed ecco il codice commentato, per una migliore comprensione:
   
- <BR>
+<BR>
+  
+INPUT L$(1),L$(2),L$(3),L$(4)       'Richiede all'utente di inserire 4 stringhe, e le assegna alle variabili L$ (1-4) <BR>
+PRINT                               'Stampa una riga vuota per formattazione <BR>
+FOR I1=1 TO 4                       'Inizia un loop che itera su I1 da 1 a 4 <BR>
+FOR I2=1 TO 4                       'Inizia un loop annidato che itera su I2 da 1 a 4 <BR>
+IF I2=I1 THEN 130                   'Se I2 è uguale a I1, salta alla linea 130 <BR>
+FOR I3= 1 TO 4                      'Inizia un altro loop annidato che itera su I3 da 1 a 4 <BR>
+IF I3=I1 THEN 120                   'Se I3 è uguale a I1, salta alla linea 120 <BR>
+IF I3=I2 THEN 120                   'Se I3 è uguale a I2, salta alla linea 120 <BR>
+LET I4=10-(I1+I2+I3)                'Calcola il valore di I4 come la differenza tra 10 e la somma di I1, I2 e I3 <BR>
+LPRINT L$(I1);L$(I2);L$(I3);L$(I4)  'Stampa le quattro stringhe L$ corrispondenti a I1, I2, I3 e I4, separate da uno spazio <BR>
+NEXT I3                             'Termina il loop su I3 <BR>
+NEXT I2                             'Termina il loop su I2 <BR>
+NEXT I1                             'Termina il loop su I1 <BR>
+END                                 'Termina il programma 
+  
+<BR>
    
    
   
