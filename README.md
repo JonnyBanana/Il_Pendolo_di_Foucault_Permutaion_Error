@@ -1,5 +1,5 @@
 # Il_Pendolo_di_Foucault_Permutaion_Error
-Presunto Errata Corrige dell'Algoritmo denominato "Abulfaia" (o ABu per gli amici) <BR>
+Presunto Errata Corrige dell'Algoritmo denominato "Abulafia" (o ABu per gli amici) <BR>
 nel Cap. 5 del libro "Il Pendolo di Foucault" del Maestro Letterario Italiano Umberto Eco
 
 <BR>
@@ -15,7 +15,7 @@ nel Cap. 5 del libro "Il Pendolo di Foucault" del Maestro Letterario Italiano Um
 <BR>
 
   
- Nel secondo capitolo del libro "HOKMAH", nel sottocapitolo 5, 
+ Nel secondo capitolo del libro "HOKMAH", nel sottocapitolo 5,   word processor 
   
  <BR>
   
