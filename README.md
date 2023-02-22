@@ -33,7 +33,7 @@ Ed ecco il codice commentato, per una migliore comprensione:
 <BR>
   
  <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/main/IMG/Abu-commentato.PNG" width="350">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/main/IMG/Abu-commentato.PNG" >
 </p>
   
 <BR>
