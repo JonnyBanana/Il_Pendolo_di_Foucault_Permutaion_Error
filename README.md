@@ -16,7 +16,8 @@ nel Cap. 5 del libro "Il Pendolo di Foucault" del Maestro Letterario Italiano Um
 
   
 Nel secondo capitolo del libro "HOKMAH", nel sottocapitolo 5,  Belbo mostra a Diollatevi il suo personale word processor, chiamato Abulafia.
-Questo programma chiede degli input all'utente, che deve inserire un carattere ad ogni richiesta del programma, e poi l'algoritmo calcola tutte le possibili permutazioni delle lettere che gli sono state precedentemente fornite negli input.
+Questo programma chiede degli input all'utente, che deve inserire un carattere ad ogni richiesta del programma, e poi l'algoritmo calcola 
+tutte le possibili permutazioni delle lettere che gli sono state precedentemente fornite negli input.
 
 Il programma originale del libro, scritto in BASIC, sarebbe questo:
   
@@ -70,11 +71,11 @@ Qui invece le screenshots dell'estratto della parte interessata:
 <BR>   
   
 
- Quindi analizzando questo breve spezzone, ne esce, che secondo l'autore, il programma "Abu" dovrebbe calcolare tutte le permutazioni del tetrgramma, <BR> 
- ovvero le lettere  I H V H. <BR> 
- Effettivamente il programma calcola  tutte le permutazioni delle 4 lettere, ma si dimentica di modificare il calcolo eliminando le doppie permutazioni.<BR> 
- In parole povere, essendo la lettera "H" ripetuta 2 volte nel caso appena sopracitato, le corrette permutazioni non risulterebbero più 24, ma bensì 12.<BR> 
- Vedi Capitolo "Algoritmi" e "Formule" per maggiori dettagli.<BR> 
+Quindi analizzando questo breve spezzone, ne esce, che secondo l'autore, il programma "Abu"<BR> 
+dovrebbe calcolare tutte le permutazioni del tetrgramma,  ovvero le lettere  I H V H. <BR> 
+Effettivamente il programma calcola  tutte le permutazioni delle 4 lettere, ma si dimentica di modificare il calcolo eliminando le doppie permutazioni.<BR> 
+In parole povere, essendo la lettera "H" ripetuta 2 volte nel caso appena sopracitato, le corrette permutazioni non risulterebbero più 24, ma bensì 12.<BR> 
+Vedi Capitolo "Algoritmi" e "Formule" per maggiori dettagli.<BR> 
   
    
 <h2>Precisazioni</h2>
