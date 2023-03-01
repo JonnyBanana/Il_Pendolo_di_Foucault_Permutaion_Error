@@ -22,7 +22,7 @@ Il programma originale del libro, scritto in BASIC, sarebbe questo:
   
 <BR>
     
- <p>
+<p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/main/IMG/programma_basic.png" width="350">
 </p>
 
@@ -32,28 +32,45 @@ Ed ecco il codice commentato, per una migliore comprensione:
   
 <BR>
   
- <p>
+<p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/main/IMG/Abu-commentato.PNG" >
 </p>
   
 <BR>
   
  
-  Qui si può trovare il libro su Google Libri:<BR>
-  https://www.google.it/books/edition/Il_pendolo_di_Foucault/SM56DwAAQBAJ?hl=it&gbpv=1&printsec=frontcover
+Qui si può trovare il libro su Google Libri:<BR>
+https://www.google.it/books/edition/Il_pendolo_di_Foucault/SM56DwAAQBAJ?hl=it&gbpv=1&printsec=frontcover
   
-  <BR>
+<BR>
     
   
-  Qui invece l'estratto della parte interessata:
+Qui invece le screenshots dell'estratto della parte interessata:
   
   
-  <BR>
+<BR>
+    
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/main/IMG/e1.PNG" >
+</p>
+
+<BR>
+    
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/main/IMG/e2.PNG" >
+</p>
+  
+<BR>
+    
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Il_Pendolo_di_Foucault_Permutaion_Error/main/IMG/e3.PNG" >
+</p>
+    
    
-   
+<BR>   
   
    
- <h2>Precisazioni</h2>
+<h2>Precisazioni</h2>
   
 <BR>
   
