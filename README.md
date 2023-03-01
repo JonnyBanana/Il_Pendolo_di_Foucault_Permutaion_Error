@@ -69,6 +69,13 @@ Qui invece le screenshots dell'estratto della parte interessata:
    
 <BR>   
   
+
+ Quindi analizzando questo breve spezzone, ne esce, che secondo l'autore, il programma "Abu" dovrebbe calcolare tutte le permutazioni del tetrgramma, <BR> 
+ ovvero le lettere  I H V H. <BR> 
+ Effettivamente il programma calcola  tutte le permutazioni delle 4 lettere, ma si dimentica di modificare il calcolo eliminando le doppie permutazioni.<BR> 
+ In parole povere, essendo la lettera "H" ripetuta 2 volte nel caso appena sopracitato, le corrette permutazioni non risulterebbero più 24, ma bensì 12.<BR> 
+ Vedi Capitolo "Algoritmi" e "Formule" per maggiori dettagli.<BR> 
+  
    
 <h2>Precisazioni</h2>
   
