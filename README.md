@@ -71,7 +71,7 @@ Qui invece le screenshots dell'estratto della parte interessata:
 <BR>   
   
 
-Quindi analizzando questo breve spezzone, ne esce, che secondo l'autore, il programma "Abu"<BR> 
+Quindi analizzando questo breve spezzone, risulta, che secondo l'autore, il programma "Abu"<BR> 
 dovrebbe calcolare tutte le permutazioni del tetrgramma,  ovvero le lettere  I H V H. <BR> 
 Effettivamente il programma calcola  tutte le permutazioni delle 4 lettere, ma si dimentica di modificare <BR>
 il calcolo eliminando le doppie permutazioni. In parole povere, essendo la lettera "H" ripetuta 2 volte <BR>
