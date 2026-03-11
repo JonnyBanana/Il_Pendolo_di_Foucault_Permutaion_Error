@@ -76,7 +76,9 @@ dovrebbe calcolare tutte le permutazioni del tetrgramma,  ovvero le lettere  I H
 Effettivamente il programma calcola  tutte le permutazioni delle 4 lettere, ma si dimentica di modificare <BR>
 il calcolo eliminando le doppie permutazioni. In parole povere, essendo la lettera "H" ripetuta 2 volte <BR>
 nel caso appena sopracitato, le corrette permutazioni non risulterebbero più 24, ma bensì 12.<BR> 
-Vedi Capitolo "Algoritmi" e "Formule" per maggiori dettagli.<BR> 
+Vedi Capitolo "Algoritmi" e "Formule" per maggiori dettagli.
+
+<BR> 
 
 
 <h2>Algoritmi e Formule</h2>
