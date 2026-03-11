@@ -282,18 +282,61 @@ L’algoritmo mostrato nel libro genera correttamente tutte le permutazioni dell
 Questo è il motivo per cui il numero di risultati prodotti dall’algoritmo risulta doppio rispetto al numero reale di combinazioni distinte.
 
 </BR>
-  
+
+<h2>Conclusioni</h2>
+
+Dall’analisi dell’algoritmo presentato nel romanzo emerge che il programma genera tutte le permutazioni possibili delle quattro posizioni delle lettere inserite dall’utente.
+
+Nel caso specifico del tetragramma **I H V H**, il programma produce 24 risultati, corrispondenti al valore matematico di:
+
+n! = 4! = 24
+
+Tuttavia, poiché una delle lettere (H) è presente due volte, molte delle sequenze generate risultano identiche tra loro. Applicando la formula delle permutazioni con ripetizione, il numero reale di combinazioni distinte è:
+
+4! / 2! = 12
+
+Pertanto, l’algoritmo mostrato nel libro non elimina automaticamente le permutazioni duplicate e restituisce un numero di risultati doppio rispetto alle combinazioni effettivamente diverse.
+
+Dal punto di vista strettamente matematico e informatico, questo comportamento indica che il programma genera permutazioni delle posizioni delle lettere, ma non effettua un controllo sulle ripetizioni del risultato finale.
+
+È tuttavia possibile che questo aspetto non costituisca necessariamente un errore intenzionale nel contesto del romanzo. Possono infatti esistere diverse interpretazioni:
+
+1. **Semplificazione narrativa**
+   Il codice riportato nel libro potrebbe essere una versione semplificata dell’algoritmo, utilizzata solo per illustrare il funzionamento generale del programma Abulafia.
+
+2. **Permutazioni delle posizioni e non delle stringhe**
+   Il programma potrebbe essere stato concepito per generare tutte le permutazioni delle posizioni delle lettere inserite, indipendentemente dal fatto che alcune lettere siano identiche.
+
+3. **Interpretazione cabalistica o simbolica**
+   Nel contesto della tradizione cabalistica, da cui deriva il nome "Abulafia", la combinazione delle lettere può avere significati diversi anche quando la sequenza finale appare identica. In questo caso, percorsi di permutazione differenti potrebbero essere considerati comunque distinti.
+
+4. **Possibile imprecisione tecnica**
+   Non si può escludere che il frammento di codice presentato nel romanzo non fosse destinato ad essere un esempio informaticamente rigoroso, ma solo una rappresentazione narrativa del funzionamento del computer nel racconto.
+
+In conclusione, dal punto di vista combinatorio il numero di permutazioni distinte del tetragramma IHVH risulta essere 12. Il programma mostrato nel testo genera invece 24 risultati perché non elimina le duplicazioni dovute alla presenza di lettere ripetute.
+
+Resta comunque possibile che questo comportamento sia coerente con il contesto simbolico e narrativo dell’opera, piuttosto che con una rigorosa implementazione informatica dell’algoritmo.
+
+
+</BR>
    
 <h2>Precisazioni</h2>
   
-<BR>
+</BR>
   
   
 Inanzitutto voglio precisare che le mie conoscienze nei campi spirutuali/religiosi sono alquanto basiche, e potrebbe perciò essermi sfuggito qualcosa a livello
 di comprendimento delle stesse, e che l'errore da me analizzato è puramente matematico/di programmazione, pertanto chiedo venia se cosi fosse.
-Voglio inoltre precisare che al momento della stesura di questa repo, non ho neanche terminato il libro, ma ciò che mi interessava era analizzare l'algoritmo, e le corrette permutazioni considerando tutte le varibaili, e le costanti, del calcolo matematico.
+Voglio inoltre precisare che al momento della stesura di questa repo, non ho neanche terminato il libro, ma ciò che mi interessava era analizzare l'algoritmo, 
+e le corrette permutazioni considerando tutte le varibaili, e le costanti, del calcolo matematico.
+Questa analisi nasce principalmente come esperimento personale e curiosità tecnica.
+L’obiettivo non è quello di correggere o criticare l’opera letteraria, ma piuttosto di analizzare dal punto di vista matematico e informatico l’algoritmo mostrato nel romanzo e confrontarlo con le regole della combinatoria.
+
+Durante questo processo è stato anche interessante ricreare alcune versioni dell’algoritmo lavorando entro i limiti dei linguaggi e degli ambienti di programmazione dell’epoca, come il BASIC utilizzato nei primi personal computer.
+
+Questo ha reso l’esperimento non solo un’analisi matematica, ma anche un piccolo esercizio di archeologia informatica, cercando di immaginare come potevano essere implementati e utilizzati programmi simili nel contesto tecnologico degli anni in cui il romanzo è stato scritto.
   
-<BR>
+/BR>
 
 
 
