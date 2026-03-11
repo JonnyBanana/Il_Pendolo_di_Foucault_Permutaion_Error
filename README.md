@@ -289,11 +289,11 @@ Dall’analisi dell’algoritmo presentato nel romanzo emerge che il programma g
 
 Nel caso specifico del tetragramma **I H V H**, il programma produce 24 risultati, corrispondenti al valore matematico di:
 
-n! = 4! = 24
+<b>n! = 4! = 24</b>
 
 Tuttavia, poiché una delle lettere (H) è presente due volte, molte delle sequenze generate risultano identiche tra loro. Applicando la formula delle permutazioni con ripetizione, il numero reale di combinazioni distinte è:
 
-4! / 2! = 12
+<b>4! / 2! = 12</b>
 
 Pertanto, l’algoritmo mostrato nel libro non elimina automaticamente le permutazioni duplicate e restituisce un numero di risultati doppio rispetto alle combinazioni effettivamente diverse.
 
@@ -336,7 +336,7 @@ Durante questo processo è stato anche interessante ricreare alcune versioni del
 
 Questo ha reso l’esperimento non solo un’analisi matematica, ma anche un piccolo esercizio di archeologia informatica, cercando di immaginare come potevano essere implementati e utilizzati programmi simili nel contesto tecnologico degli anni in cui il romanzo è stato scritto.
   
-/BR>
+</BR>
 
 
 
