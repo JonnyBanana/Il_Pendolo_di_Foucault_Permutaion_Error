@@ -167,6 +167,121 @@ molte operazioni dovevano essere implementate manualmente
 Questo approccio permette di comprendere meglio come potevano essere concepiti programmi simili all’interno del contesto tecnologico del periodo in cui il romanzo è stato scritto.
 
 </BR>
+
+
+
+
+## Permutazioni generate e Permutazioni distinte
+
+Per comprendere meglio la differenza tra il comportamento dell’algoritmo presentato nel libro e il numero reale di combinazioni distinte, è utile confrontare direttamente i risultati.
+
+L’algoritmo mostrato nel romanzo genera tutte le **permutazioni delle posizioni** delle quattro lettere.
+Questo porta alla generazione di **24 risultati (4!)**, ma nel caso del tetragramma **I H V H** alcune sequenze risultano identiche perché la lettera **H** è presente due volte.
+
+Di conseguenza, il numero reale di sequenze **distinte** è pari a **12**, come indicato dalla formula delle permutazioni con ripetizione.
+
+---
+
+### Permutazioni generate dall’algoritmo (24)
+
+Di seguito è riportato un esempio delle permutazioni generate considerando le quattro posizioni delle lettere:
+
+1. I H V H
+
+2. I H H V
+
+3. I V H H
+
+4. I V H H
+
+5. I H H V
+
+6. I H V H
+
+7. H I V H
+
+8. H I H V
+
+9. H V I H
+
+10. H V H I
+
+11. H H I V
+
+12. H H V I
+
+13. V I H H
+
+14. V I H H
+
+15. V H I H
+
+16. V H H I
+
+17. V H I H
+
+18. V H H I
+
+19. H I H V
+
+20. H I V H
+
+21. H H I V
+
+22. H H V I
+
+23. H V I H
+
+24. H V H I
+
+Come si può osservare, diverse sequenze compaiono più di una volta.
+
+---
+
+### Permutazioni distinte (12)
+
+Eliminando le duplicazioni dovute alla presenza delle due lettere **H**, le sequenze realmente diverse risultano essere:
+
+1. I H V H
+
+2. I H H V
+
+3. I V H H
+
+4. H I V H
+
+5. H I H V
+
+6. H V I H
+
+7. H V H I
+
+8. H H I V
+
+9. H H V I
+
+10. V I H H
+
+11. V H I H
+
+12. V H H I
+
+Queste rappresentano tutte le **permutazioni distinte** del tetragramma.
+
+---
+
+### Confronto tra i due approcci
+
+| Metodo                       | Risultati |
+| ---------------------------- | --------- |
+| Permutazioni delle posizioni | 24        |
+| Permutazioni distinte        | 12        |
+
+L’algoritmo mostrato nel libro genera correttamente tutte le permutazioni delle **posizioni**, ma non effettua un controllo per eliminare le sequenze duplicate quando alcune lettere risultano identiche.
+
+Questo è il motivo per cui il numero di risultati prodotti dall’algoritmo risulta doppio rispetto al numero reale di combinazioni distinte.
+
+</BR>
   
    
 <h2>Precisazioni</h2>
