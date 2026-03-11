@@ -169,8 +169,6 @@ Questo approccio permette di comprendere meglio come potevano essere concepiti p
 </BR>
 
 
-
-
 ## Permutazioni generate e Permutazioni distinte
 
 Per comprendere meglio la differenza tra il comportamento dell’algoritmo presentato nel libro e il numero reale di combinazioni distinte, è utile confrontare direttamente i risultati.
@@ -283,6 +281,47 @@ Questo è il motivo per cui il numero di risultati prodotti dall’algoritmo ris
 
 </BR>
 
+<h2>Precisazioni</h2>
+  
+</BR>
+  
+  
+Inanzitutto voglio precisare che le mie conoscienze nei campi spirutuali/religiosi sono alquanto basiche, e potrebbe perciò essermi sfuggito qualcosa a livello
+di comprendimento delle stesse, e che l'errore da me analizzato è puramente matematico/di programmazione, pertanto chiedo venia se cosi fosse.
+Voglio inoltre precisare che al momento della stesura di questa repo, non ho neanche terminato il libro, ma ciò che mi interessava era analizzare l'algoritmo, 
+e le corrette permutazioni considerando tutte le varibaili, e le costanti, del calcolo matematico.
+Questa analisi nasce principalmente come esperimento personale e curiosità tecnica.
+L’obiettivo non è quello di correggere o criticare l’opera letteraria, ma piuttosto di analizzare dal punto di vista matematico e informatico l’algoritmo mostrato nel romanzo e confrontarlo con le regole della combinatoria.
+
+Durante questo processo è stato anche interessante ricreare alcune versioni dell’algoritmo lavorando entro i limiti dei linguaggi e degli ambienti di programmazione dell’epoca, come il BASIC utilizzato nei primi personal computer.
+
+Questo ha reso l’esperimento non solo un’analisi matematica, ma anche un piccolo esercizio di archeologia informatica, cercando di immaginare come potevano essere implementati e utilizzati programmi simili nel contesto tecnologico degli anni in cui il romanzo è stato scritto.
+  
+</BR>
+
+
+<h2>Possibile interpretazione cabalistica delle permutazioni</h2>
+
+Nel corso di questa analisi ho considerato principalmente l’aspetto **matematico e algoritmico** del problema. Tuttavia è possibile che, nel contesto del romanzo e delle tradizioni mistiche a cui esso fa riferimento, il concetto di permutazione possa essere interpretato in modo diverso rispetto alla combinatoria moderna.
+
+Il nome del computer utilizzato nel libro, **Abulafia**, richiama infatti la figura del mistico medievale Abraham Abulafia, noto per le sue pratiche di meditazione basate sulla **combinazione e permutazione delle lettere dell’alfabeto ebraico**, in particolare quelle del nome divino.
+
+In alcune pratiche cabalistiche le lettere non vengono considerate solamente come simboli identici, ma come **entità dotate di significato anche in base alla posizione, al percorso mentale o alla sequenza di trasformazioni utilizzate per ottenerle**.
+
+In questo contesto, due permutazioni che producono visivamente la stessa sequenza finale potrebbero comunque essere considerate differenti se ottenute attraverso **percorsi di trasformazione diversi**.
+
+Applicando questa idea al tetragramma analizzato (I H V H), è teoricamente possibile immaginare che:
+
+* due configurazioni apparentemente identiche possano derivare da permutazioni diverse delle posizioni originali
+* tali permutazioni possano quindi essere considerate comunque significative in un contesto simbolico o meditativo
+
+Questa interpretazione non appartiene alla matematica combinatoria moderna, ma potrebbe rappresentare una possibile spiegazione simbolica del motivo per cui un algoritmo narrativamente ispirato a queste tradizioni non distingua necessariamente tra sequenze duplicate.
+
+Va comunque precisato che questa rimane **una possibile interpretazione speculativa**, e che la presente analisi si concentra principalmente sugli aspetti matematici e informatici dell’algoritmo mostrato nel romanzo.
+
+
+</BR>
+
 <h2>Conclusioni</h2>
 
 Dall’analisi dell’algoritmo presentato nel romanzo emerge che il programma genera tutte le permutazioni possibili delle quattro posizioni delle lettere inserite dall’utente.
@@ -320,23 +359,4 @@ Resta comunque possibile che questo comportamento sia coerente con il contesto s
 
 </BR>
    
-<h2>Precisazioni</h2>
-  
-</BR>
-  
-  
-Inanzitutto voglio precisare che le mie conoscienze nei campi spirutuali/religiosi sono alquanto basiche, e potrebbe perciò essermi sfuggito qualcosa a livello
-di comprendimento delle stesse, e che l'errore da me analizzato è puramente matematico/di programmazione, pertanto chiedo venia se cosi fosse.
-Voglio inoltre precisare che al momento della stesura di questa repo, non ho neanche terminato il libro, ma ciò che mi interessava era analizzare l'algoritmo, 
-e le corrette permutazioni considerando tutte le varibaili, e le costanti, del calcolo matematico.
-Questa analisi nasce principalmente come esperimento personale e curiosità tecnica.
-L’obiettivo non è quello di correggere o criticare l’opera letteraria, ma piuttosto di analizzare dal punto di vista matematico e informatico l’algoritmo mostrato nel romanzo e confrontarlo con le regole della combinatoria.
-
-Durante questo processo è stato anche interessante ricreare alcune versioni dell’algoritmo lavorando entro i limiti dei linguaggi e degli ambienti di programmazione dell’epoca, come il BASIC utilizzato nei primi personal computer.
-
-Questo ha reso l’esperimento non solo un’analisi matematica, ma anche un piccolo esercizio di archeologia informatica, cercando di immaginare come potevano essere implementati e utilizzati programmi simili nel contesto tecnologico degli anni in cui il romanzo è stato scritto.
-  
-</BR>
-
-
 
