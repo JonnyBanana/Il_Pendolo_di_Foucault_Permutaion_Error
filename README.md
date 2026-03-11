@@ -90,11 +90,11 @@ n! (n fattoriale)
 
 dove:
 
-n! = n × (n−1) × (n−2) × ... × 1
+<b>n! = n × (n−1) × (n−2) × ... × 1</b>
 
 Ad esempio:
 
-4! = 4 × 3 × 2 × 1 = 24
+<b>4! = 4 × 3 × 2 × 1 = 24</b>
 
 Questo significa che quattro elementi distinti possono essere ordinati in 24 modi diversi.
 
@@ -103,7 +103,7 @@ Permutazioni con elementi ripetuti
 Nel caso in cui alcuni elementi siano identici, il numero di permutazioni realmente distinte diminuisce.
 Per calcolare il numero di permutazioni uniche si utilizza la formula delle permutazioni con ripetizione:
 
-n! / (k₁! × k₂! × ... × kₙ!)
+<b>n! / (k₁! × k₂! × ... × kₙ!)</b>
 
 dove:
 
@@ -125,7 +125,7 @@ la lettera H è ripetuta 2 volte
 
 Applicando la formula:
 
-4! / 2! = 24 / 2 = 12
+<b>4! / 2! = 24 / 2 = 12</b>
 
 Il numero di permutazioni distinte del tetragramma risulta quindi essere 12.
 
@@ -133,9 +133,7 @@ L'algoritmo presentato nel libro genera invece 24 combinazioni, poiché tratta o
 
 Implementazioni e sperimentazioni sugli algoritmi
 
-Per analizzare e verificare il comportamento dell’algoritmo descritto nel libro, ho realizzato diverse implementazioni disponibili nella cartella:
-
-CODEX
+Per analizzare e verificare il comportamento dell’algoritmo descritto nel libro, ho realizzato diverse implementazioni disponibili nella cartella <b>"CODEX"</b>
 
 all’interno di questa repository.
 
@@ -149,9 +147,10 @@ Script Python utilizzato per generare e verificare automaticamente le permutazio
 
 Lo script Python utilizza funzioni standard di generazione delle permutazioni per confrontare il risultato teorico con quello prodotto dall’algoritmo originale.
 
-Queste implementazioni sono state create principalmente come esperimento e analisi tecnica, con l’obiettivo di comprendere meglio il funzionamento del codice presentato nel romanzo e confrontarlo con approcci più moderni.
+Queste implementazioni sono state create principalmente come esperimento e analisi tecnica, con l’obiettivo di comprendere meglio il funzionamento del codice presentato 
+nel romanzo e confrontarlo con approcci più moderni.
 
-Nota sulle limitazioni dei linguaggi dell’epoca
+<b>Nota sulle limitazioni dei linguaggi dell’epoca:</b>
 
 Nel ricreare alcune versioni del codice mi sono anche divertito a lavorare entro i limiti dei linguaggi e degli ambienti di programmazione dell’epoca, come il BASIC utilizzato nei primi personal computer.
 
@@ -164,6 +163,8 @@ le strutture dati erano molto semplici
 molte operazioni dovevano essere implementate manualmente
 
 Questo approccio permette di comprendere meglio come potevano essere concepiti programmi simili all’interno del contesto tecnologico del periodo in cui il romanzo è stato scritto.
+
+</BR>
   
    
 <h2>Precisazioni</h2>
