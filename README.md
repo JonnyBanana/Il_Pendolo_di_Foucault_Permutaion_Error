@@ -94,7 +94,7 @@ dove:
 
 Ad esempio:
 
-<b>4! = 4 × 3 × 2 × 1 = 24</b>
+<b>4! = 4 × 3 × 2 × 1 = 24</b> 
 
 Questo significa che quattro elementi distinti possono essere ordinati in 24 modi diversi.
 
